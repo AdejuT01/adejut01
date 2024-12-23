@@ -19,5 +19,5 @@ This is my GitHub profile landing page—feel free to explore my projects and re
 ---
 
 <p align="center">
-  <img src="Futuristic.PNG" alt="Futuristic Theme" width="500">
+  <img src="Futuristic.PNG" alt="Futuristic Theme" width="800">
 </p>
