@@ -16,4 +16,8 @@ This is my GitHub profile landing page—feel free to explore my projects and re
 - [LinkedIn]([https://www.linkedin.com/in/temitope-adejumo-profile])
 - [Email](mailto:temitopeadejumo@gmail.com)
 
+---
 
+<p align="center">
+  <img src="https://github.com/AdejuT01/adejut01/blob/main/Futuristic.PNG" alt="Futuristic Theme" width="500">
+</p>
