@@ -13,7 +13,7 @@ This is my GitHub profile landing page—feel free to explore my projects and re
 ---
 
 ## 📫 Connect With Me!
-- [LinkedIn]([https://www.linkedin.com/in/temitope-adejumo-profile])
+- [LinkedIn](https://www.linkedin.com/in/temitope-adejumo-profile)
 - [Email](mailto:temitopeadejumo@gmail.com)
 
 ---
