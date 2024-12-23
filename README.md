@@ -19,5 +19,5 @@ This is my GitHub profile landing page—feel free to explore my projects and re
 ---
 
 <p align="center">
-  <img src="https://github.com/AdejuT01/adejut01/blob/main/Futuristic.PNG" alt="Futuristic Theme" width="500">
+  <img src="https://github.com/AdejuT01/adejut01/blob/main/Futuristic.png" alt="Futuristic Theme" width="500">
 </p>
