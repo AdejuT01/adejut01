@@ -1,16 +1,19 @@
-## Hi there 👋
+## Welcome to My GitHub Profile! 👋
 
 <!--
-**AdejuT01/adejut01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Temitope Adejumo, a passionate Software Engineer with a love for coding, data science, and robotics.  
+This is my GitHub profile landing page—feel free to explore my projects and repositories!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills and Tools
+- **Programming Languages:** Python, JavaScript, R, HTML
+- **Technologies:** Machine Learning, Cloud Computing, Data Analysis  
+
+---
+
+## 📫 Connect With Me!
+- [LinkedIn]([https://www.linkedin.com/in/temitope-adejumo-profile])
+- [Email](mailto:temitopeadejumo@gmail.com)
+
+
