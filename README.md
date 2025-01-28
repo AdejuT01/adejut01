@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 
-Hello! I'm Temitope Adejumo, a passionate Software Engineer with a love for coding, data science, and robotics.  
+Hello! I'm Temitope Adejumo, a passionate Data Scientist with a love for coding, data analytics, and robotics.  
 This is my GitHub profile landing page—feel free to explore my projects and repositories!  
 
 ---
